@@ -30,7 +30,7 @@ All the completed tasks have been done using Google Colaboratory.
 
 ------------------------------------------------------------------------------------------
 **This git repo consists of 4 files as of now:**
-1. IPL.zip file: Dataset
+1. Indian Premier League.zip file: Dataset
 2. IPL_EDA.ipynb file: Google Colab File (Python Notebook)
 3. ipl_eda.py: Python version of the Google Colab File
 4. README.md: README File for the Project
