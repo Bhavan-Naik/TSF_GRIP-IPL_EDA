@@ -2,7 +2,7 @@
 Exploratory Data Analysis on the IPL dataset collected from 2008-2019 as part of the TSF - GRIP July 2021.
 
 ------------------------------------------------------------------------------------------
-**Video Explanation Link (on LinkedIn):** 
+**Video Explanation Link (on LinkedIn):** https://www.linkedin.com/posts/bhavan-naik_task5-gripjuly21-gripjuly2021-activity-6822057102471786496-0T9H
 
 ------------------------------------------------------------------------------------------
 **Dataset:**
@@ -24,12 +24,7 @@ Exploratory Data Analysis on the IPL dataset collected from 2008-2019 as part of
 5. Create a video explaining all these interpretations.
 
 ------------------------------------------------------------------------------------------
-**Tasks Completed:** 1, 2, 3, 4. 
-
-All the completed tasks have been done using Google Colaboratory.
-
-------------------------------------------------------------------------------------------
-**This git repo consists of 4 files as of now:**
+**This git repo consists of 4 files:**
 1. Indian Premier League.zip file: Dataset
 2. IPL_EDA.ipynb file: Google Colab File (Python Notebook)
 3. ipl_eda.py: Python version of the Google Colab File
